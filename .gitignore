@@ -1,3 +1,7 @@
+nbproject/
+doc/html/
+src/.deps/
+
 # Object files
 *.o
 
@@ -11,7 +15,6 @@
 *.so.*
 *.dylib
 
-# Executables
-*.exe
-*.out
-*.app
+#packages
+*.tar.gz
+*.tar.bz2
